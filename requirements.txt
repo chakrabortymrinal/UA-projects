@@ -1,0 +1,11 @@
+setuptools
+Flask==2.0.1
+Scrapy==2.5.0
+pandas
+faker==26.0.0
+numpy
+matplotlib
+seaborn
+python-dotenv
+configparser
+BeautifulSoup
