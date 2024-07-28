@@ -82,3 +82,4 @@ Thumbs.db
 
 # project outputs
 *.csv*
+*all_video_comments.json*

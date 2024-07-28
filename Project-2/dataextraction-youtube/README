@@ -1,0 +1,6 @@
+Youtube Data extraction project
+#https://console.cloud.google.com/apis/credentials?project=data-collection-youtube-430704
+#https://console.cloud.google.com/monitoring;duration=P7D?project=data-collection-youtube-430704p
+
+#pip install --upgrade google-api-python-client --no-cache-dir  
+
